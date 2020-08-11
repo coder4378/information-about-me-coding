@@ -1,0 +1,34 @@
+body{
+background-color: black;
+background-repeat: no-repeat;
+border: blanchedalmond;
+border-style: double;
+}
+.info{
+font-size: larger;
+font-weight: bolder;
+color: cyan;
+text-shadow: -2px -2px red;
+}
+.info:hover{
+color: chartreuse;
+}
+.des{
+font-size: medium;
+font-weight: bolder;
+color: chartreuse;
+text-shadow:-2px -2px red;
+}
+.des:hover{
+color: cyan;
+}
+.mark1{
+color: gold;
+font-size: larger;
+font-weight: bolder;
+background-color: darkgreen;
+text-shadow: -2px -2px magenta;
+}
+.img :hover{
+opacity: -2;
+}

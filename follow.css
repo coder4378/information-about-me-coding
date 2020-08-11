@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    border: red;
+    border-style: double;
+    border-width:2px;
+    }
+    
+    .para{
+    font-size: larger;
+    background-color: black;
+    color: chartreuse;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px red;
+    }
+    .mark{
+        background-color: lightgreen;
+        color: darkgreen;
+        font-size: larger;
+        font-weight: bolder;
+        text-shadow: 2px 2px 2px red;
+        }
+        img:hover{
+        opacity:200
+        }
+        
